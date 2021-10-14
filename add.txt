@@ -6,4 +6,4 @@ cambios de otro compa
 Cambio de otro compa
 cambio 2
 Cambio en github todo junto
-vista  git
+vista  git fetch
